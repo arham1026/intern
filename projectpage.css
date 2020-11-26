@@ -169,7 +169,7 @@ letter-spacing: 1.1px;
  }
   img:hover{
     transition: 0.5s;
-    
+    margin-right:100px;
       box-shadow: 2px 2px 3px 11px orange;
     cursor: pointer;
     size:11100%;
