@@ -96,7 +96,7 @@ width:270px;
   
 }
 .BB>.click{
-  border-radius:100px;
+  border-radius:200px;
   background-color: red;
   color:white;
   width:100px;
@@ -229,6 +229,8 @@ border:12px soild green;
   .footer{
   background-color: steelblue;
   display: flex;
+  padding-top: 0px;
+  margin-top:60px;
 }
 .credit > .para{
   width: 400px;
@@ -266,7 +268,7 @@ border:12px soild green;
   text-align: center;
   color: white;
   background-color: #333;
-  padding: 20px 0;
+  padding: 15px 0;
 }
 .icon{
   margin-left: 50px;
@@ -280,12 +282,12 @@ border:12px soild green;
 .fa{
   font-size: 30px !important;
   color: #fff;
-  padding: 4px;
+  padding: 7px;
 }
 .fa:hover{
   background-color: red;
   color: #000;
-  font-size: 33px !important;
+  font-size: 300% !important;
   transition: .5s;
   border-radius: 4px;
   cursor: pointer;
